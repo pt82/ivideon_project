@@ -4,7 +4,6 @@ namespace App\Http\Controllers\API;
 
 use App\Http\Controllers\Controller;
 use App\Mail\MailReport;
-use App\Models\Pers;
 use App\Models\Person;
 use DateTime;
 use Illuminate\Database\Eloquent\Casts\AsCollection;
